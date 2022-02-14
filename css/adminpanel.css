@@ -1,0 +1,36 @@
+a {
+	color: #fff;
+}
+
+#auth {
+	border:2px;
+	border-radius: 20px;
+	background-color: aliceblue;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.form-auth {
+	padding: 20px;
+	margin: 5% 0;
+	width: 270px;
+}
+
+.inputs {
+	padding: 7px;
+	border: 2px;
+	width: 240px;
+	border-radius: 5px;
+	margin: 5px;
+}
+
+.input-btn {
+	width: 255px;
+	cursor: pointer;
+}
+
+.hide { 
+	visibility: hidden;
+}
